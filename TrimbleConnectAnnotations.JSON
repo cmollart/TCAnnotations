@@ -1,0 +1,8 @@
+{
+  "pluginUrl": "https://tc-extensions.cloud.tekla.com/annotations/index.html",
+  "title": "Annotations for Trimble Connect Web",
+  "icon": "https://tc-extensions.cloud.tekla.com/annotations/favicon.ico"
+  "description": "CEMC Config Annotions",
+  "configCommand": "do_config",
+  "enabled": true
+}
